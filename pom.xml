@@ -30,7 +30,7 @@ under the License.
   </parent>
 
   <artifactId>maven-project-info-reports-plugin</artifactId>
-  <version>3.4.3-SNAPSHOT</version>
+  <version>3.4.3-gebit1</version>
   <packaging>maven-plugin</packaging>
 
   <name>Apache Maven Project Info Reports Plugin</name>
